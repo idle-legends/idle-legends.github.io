@@ -38,3 +38,13 @@ Gratuitos para uso comercial e não comercial, edição permitida; **é proibido
 | Boss: Mecha-Stone Golem | https://darkpixel-kronovi.itch.io/mecha-golem-free | `golem` (Colosso Rúnico) |
 | Boss: Undead Executioner | https://darkpixel-kronovi.itch.io/undead-executioner | `reaper` (Ceifador Sombrio), `spirit` (Espírito Errante) |
 | Wandering Knight | https://darkpixel-kronovi.itch.io/wandering-knight-2d-character | `knight` (Cavaleiro Caído) |
+
+## Regiões 7-10 (conferido em 2026-11-24)
+
+| Pacote | Autor | Fonte | Licença | Usado em |
+|---|---|---|---|---|
+| Evil Wizard | LuizMelo | https://luizmelo.itch.io/evil-wizard | CC0 | `wizard` (Feiticeiro Renegado, Arquimago Glacial) |
+| Bringer Of Death (Free) | Clembod | https://clembod.itch.io/bringer-of-death-free | Uso pessoal e comercial, edição permitida; proibido redistribuir/revender o pacote | `bringer` (Arauto da Morte) |
+| FREE Enemy: Winter Canines | Admurin | https://admurin.itch.io/enemy-winter-canines | Uso livre em jogos, pessoais ou comerciais; proibido revender/redistribuir o pacote, NFT e treino de IA | `wolf`, `wolf_white` (lobos, Fenrir) |
+| GothicVania Cemetery | ansimuz | https://ansimuz.itch.io/gothicvania-cemetery | CC0 | `ghost`, `hellcat`, `ghoul` (e o efeito de morte deles) |
+| Magic Cliffs Pack (Gamekit) | ansimuz | https://ansimuz.itch.io/magic-cliffs-environment | CC0 | `fox`, `ninja` |
